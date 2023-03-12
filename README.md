@@ -4,4 +4,4 @@ In order to focus on addressing bias in image datasets, where the background is 
 
 By using "style transfer" to create a fake relationship in which the style of the painting correlates with the subject that is to be recognized. the project will intentionally introduce biases into the dataset, providing an opportunity for researchers to develop classifiers that can recognize subjects accurately despite these biases.
 
-![image](Stylized_Dataset/Sample_images.png)
+<img src="Stylized_Dataset/Sample_images.png"  width="600" height="600">
